@@ -14,7 +14,7 @@
 
 <br>
 
-## 🇺🇸 About Me
+## About Me
 
 I am a **Computer Engineering student at UTFPR** based in Apucarana, Paraná.  
 I love using technology to solve real-world problems, creating programs that automate tedious tasks and help businesses organize themselves better.
@@ -26,7 +26,7 @@ I love using technology to solve real-world problems, creating programs that aut
 
 ---
 
-## 🇧🇷 Sobre Mim
+## Sobre Mim
 
 Sou estudante de **Engenharia da Computação na UTFPR** e moro em Apucarana, Paraná.  
 Gosto de usar a tecnologia para resolver problemas do mundo real, criando programas que automatizam tarefas chatas e ajudam empresas a se organizarem melhor.
@@ -52,8 +52,8 @@ Gosto de usar a tecnologia para resolver problemas do mundo real, criando progra
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPrissao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPrissao&layout=compact&theme=radical"/>
 </div>
 ### 🛠️ Minhas Ferramentas
 * **Linguagens:** Python, Javascript, SQL, C.
